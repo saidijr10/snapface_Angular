@@ -32,7 +32,7 @@ npm install
 3. Démarrer le serveur de développement :
    
 ```bash
-npm serve
+ng serve
 ```
 
 4. Ouvrir le navigateur sur :
